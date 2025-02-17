@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Selvedin Drinić
 
-<!--
-**SelvedinFrontEnd/SelvedinFrontEnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer** | Passionate about Web Technologies  
 
-Here are some ideas to get you started:
+💡 I love building interactive and dynamic web applications using:
+- **Languages & Frameworks:** HTML, CSS, JavaScript, React,  Firebase  
+- **Backend & Databases:** TypeScript, Node.js(Express.js) (learning in progress)  
+- **Tools & Version Control:** Git, GitHub, Figma  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Currently working on a **crypto website project** showcasing:
+- Real-time cryptocurrency data  
+- User authentication and profiles  
+- Interactive UI with modern web technologies  
+
+🔍 Exploring **Firebase** to enhance authentication and database management skills.  
+
+📚 I’m constantly learning and improving my **React & full-stack development** skills.  
+
+📬 **Let's Connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/selvedin-drini%C4%87-345693268/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://selvedin.netlify.app/)  
+
+---
+
+### 📊 GitHub Stats  
+![Selvedin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelvedinFrontEnd&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelvedinFrontEnd&layout=compact&theme=dark)  
+
+---
+
+### 🚀 Latest Projects  
+🔹 [Crypto Website](#) – A web app displaying live crypto prices & user profiles  
+🔹 [Movie Finder](#) – A React project fetching movie data via API  
+
+---
+
+### 🏆 Fun Facts  
+⚡ Huge **Formula 1** fan & fascinated by the mechanics of F1 cars  
+📖 Enjoys reading & continuously learning new tech  
+💪 Loves **street workout** for staying fit & focused  
+🌍 Currently learning **Italian** 🇮🇹  
+
+---
+
+🔥 **"Passion fuels progress. Keep coding, keep growing!"** 🚀  
