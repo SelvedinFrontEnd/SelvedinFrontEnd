@@ -3,8 +3,8 @@
 🚀 **Frontend Developer** | Passionate about Web Technologies  
 
 💡 I love building interactive and dynamic web applications using:
-- **Languages & Frameworks:** HTML, CSS, JavaScript, React,  Firebase  
-- **Backend & Databases:** TypeScript, Node.js(Express.js) (learning in progress)  
+- **Languages & Frameworks:** HTML, CSS, JavaScript, React,   
+- **Backend & Databases:** Firebase, TypeScript, Node.js(Express.js) (learning in progress)  
 - **Tools & Version Control:** Git, GitHub, Figma  
 
 📈 Currently working on a **crypto website project** showcasing:
@@ -29,13 +29,14 @@
 ---
 
 ### 🚀 Latest Projects  
-🔹 [Crypto Website](#) – A web app displaying live crypto prices & user profiles  
-🔹 [Movie Finder](#) – A React project fetching movie data via API  
+🔹 [Crypto Website](https://cryptoscoins.netlify.app/) – A web app displaying live crypto prices & user profiles  
+🔹 [Movie Finder](https://selvexmovies.netlify.app/) – A React project fetching movie data via API  
 
 ---
 
 ### 🏆 Fun Facts  
 ⚡ Huge **Formula 1** fan & fascinated by the mechanics of F1 cars  
+⚽ Biggest **Liverpool** fan! ❤️ **You'll Never Walk Alone**  
 📖 Enjoys reading & continuously learning new tech  
 💪 Loves **street workout** for staying fit & focused  
 🌍 Currently learning **Italian** 🇮🇹  
